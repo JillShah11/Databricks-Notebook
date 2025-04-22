@@ -1,5 +1,7 @@
 # 🟡 Silver to Gold Layer Transformation with Databricks & PySpark
 
+![image](https://github.com/user-attachments/assets/d1cd9f15-0b0d-489c-98d6-a3fa701be2ce)
+
 ## 📌 Overview
 
 This project demonstrates the process of transforming data from the **Silver** layer to the **Gold** layer using **Databricks** and **PySpark**. The final transformed data is optimized for business intelligence reporting and loaded into **Azure SQL Database**.
